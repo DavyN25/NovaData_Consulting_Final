@@ -60,7 +60,7 @@ EXPECTED_COLUMNS = {
 }
 
 BOURSORAMA_URL = "https://www.boursorama.com/banque-en-ligne/produits-bancaires/"
-CA_URL = "https://www.credit-agricole.fr/ca-paris/particulier/compte-bancaire.html"
+
 
 
 # -------------------------------------------------------------------
